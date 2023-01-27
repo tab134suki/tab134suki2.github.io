@@ -191,5 +191,58 @@
 				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/9.jpg'>"
 			}
 		]
-  }
+  },
+  "Furry": {
+		"type": "image",
+		"container": [
+			{
+				"text": "Furry-1",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/178D42615C3C3AA3843F756E63A3E149.jpg'>"
+			},
+			{
+				"text": "Furry-2",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/3DCB087A4936B6A248D674F7B3FE5488.jpg'>"
+			},
+			{
+				"text": "Furry-3",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/4167B8789D6BD4061034D56A7AD5D69F.jpg'>"
+			},
+			{
+				"text": "Furry-4",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/4215538B46E99150D5A30470513C8D9F.jpg'>"
+			},
+			{
+				"text": "Furry-5",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/91DDAE5A7A16914313A2FF945C3B8083.jpg'>"
+			},
+			{
+				"text": "Furry-6",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/9307A3C940615191ED6A446E71663726.jpg'>"
+			},
+			{
+				"text": "Furry-7",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/95C21A1B70397C89133B2824361B4130.jpg'>"
+			},
+			{
+				"text": "Furry-8",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/9E5D26C955E52CF7BF78F9BA38F17DB8.jpg'>"
+			},
+			{
+				"text": "Furry-9",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/AFD1A6E2A36F43CD77DA28A9726CE25E.jpg'>"
+			},
+			{
+				"text": "Furry-10",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/DF64AE29B39B2212D989E46EF4DC7957.gif'>"
+			},
+			{
+				"text": "Furry-11",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/E83BC0DA70DCCBE823BA266337B28E7A.jpg'>"
+			},
+			{
+				"text": "Furry-12",
+				"icon": "<img src='https://ceshi.tabotef134.top/furry/EDA09FA617543672D178488E1B6426FC.gif'>"
+			}
+		]
+	}
 }
