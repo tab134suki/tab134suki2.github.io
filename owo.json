@@ -197,51 +197,149 @@
 		"container": [
 			{
 				"text": "Furry-1",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/178D42615C3C3AA3843F756E63A3E149.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-1.jpg'>"
 			},
 			{
 				"text": "Furry-2",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/3DCB087A4936B6A248D674F7B3FE5488.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-2.jpg'>"
 			},
 			{
 				"text": "Furry-3",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/4167B8789D6BD4061034D56A7AD5D69F.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-3.gif'>"
 			},
 			{
 				"text": "Furry-4",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/4215538B46E99150D5A30470513C8D9F.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-4.jpg'>"
 			},
 			{
 				"text": "Furry-5",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/91DDAE5A7A16914313A2FF945C3B8083.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-5.jpg'>"
 			},
 			{
 				"text": "Furry-6",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/9307A3C940615191ED6A446E71663726.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-6.jpg'>"
 			},
 			{
 				"text": "Furry-7",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/95C21A1B70397C89133B2824361B4130.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-7.jpg'>"
 			},
 			{
 				"text": "Furry-8",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/9E5D26C955E52CF7BF78F9BA38F17DB8.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-8.jpg'>"
 			},
 			{
 				"text": "Furry-9",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/AFD1A6E2A36F43CD77DA28A9726CE25E.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-9.gif'>"
 			},
 			{
 				"text": "Furry-10",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/DF64AE29B39B2212D989E46EF4DC7957.gif'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-10.gif'>"
 			},
 			{
 				"text": "Furry-11",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/E83BC0DA70DCCBE823BA266337B28E7A.jpg'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-11.jpg'>"
 			},
 			{
 				"text": "Furry-12",
-				"icon": "<img src='https://ceshi.tabotef134.top/furry/EDA09FA617543672D178488E1B6426FC.gif'>"
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-12.gif'>"
+			}
+			{
+				"text": "Furry-13",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-13.jpg'>"
+			},
+			{
+				"text": "Furry-14",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-14.jpg'>"
+			},
+			{
+				"text": "Furry-15",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-15.jpg'>"
+			},
+			{
+				"text": "Furry-16",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-16.jpg'>"
+			},
+			{
+				"text": "Furry-17",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-17.jpg'>"
+			},
+			{
+				"text": "Furry-18",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-18.jpg'>"
+			},
+			{
+				"text": "Furry-19",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/furry-19.jpg'>"
+			},
+		]
+	}
+  },
+  "星穹铁道帕姆": {
+		"type": "image",
+		"container": [
+			{
+				"text": "pamu-1",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-1.png'>"
+			},
+			{
+				"text": "pamu-2",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-2.png'>"
+			},
+			{
+				"text": "pamu-3",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-3.png'>"
+			},
+			{
+				"text": "pamu-4",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-4.png'>"
+			},
+			{
+				"text": "pamu-5",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-5.png'>"
+			},
+			{
+				"text": "pamu-6",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-6.png'>"
+			},
+			{
+				"text": "pamu-7",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-7.png'>"
+			},
+			{
+				"text": "pamu-8",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-8.png'>"
+			},
+			{
+				"text": "pamu-9",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-9.png'>"
+			},
+			{
+				"text": "pamu-10",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-10.png'>"
+			},
+			{
+				"text": "pamu-11",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-11.png'>"
+			},
+			{
+				"text": "pamu-12",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-12.png'>"
+			}
+			{
+				"text": "pamu-13",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-13.png'>"
+			},
+			{
+				"text": "pamu-14",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-14.png'>"
+			},
+			{
+				"text": "pamu-15",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-15.png'>"
+			},
+			{
+				"text": "pamu-16",
+				"icon": "<img src='https://zhuye.jiyu134.top/images/pamu-16.png'>"
 			}
 		]
 	}
